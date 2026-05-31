@@ -19,8 +19,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add your solution URL here](https://github.com/aqilahshahira/Blog-Post-Card)
-- Live Site URL: [Add your live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/aqilahshahira/Blog-Post-Card)
 
 ### Built with
 
